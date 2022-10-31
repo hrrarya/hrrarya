@@ -3,6 +3,8 @@
 
 ## Hello, how are you? 👋🏻
 
+🧔🏻 My name is **Hridoy Mozumder**, I'm 25 years old, I'm a Bangladeshi programmer, CSE Student and specialized in Full Stack Web Development.
+
 <!-- Social Networks -->
 <p align="left">
 	<!-- Linkedin -->
@@ -21,7 +23,7 @@
 	<a href="https://vsportfolio.vercel.app" target="_black"><img alt="Portfolio" src="https://img.shields.io/badge/hrrarya-Portfolio-9644F4?style=flat&color=9644F4" title="Portfolio" /></a>
 </p>
 
-🧔🏻 My name is **Hridoy Mozumder**, I'm 25 years old, I'm a Bangladeshi programmer, CSE Student and specialized in Full Stack Web Development.
+
 
 <!-- Info repo -->
 
