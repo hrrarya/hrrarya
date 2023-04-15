@@ -1,7 +1,7 @@
 
 
 
-## Hello, how are you? 👋🏻
+## Hello, How Are You? 👋🏻
 
 🧔🏻 My name is **Hridoy Mozumder**, I'm 25 years old, I'm a Bangladeshi programmer, CSE Student and specialized in Full Stack Web Development.
 
@@ -63,11 +63,11 @@ Some of the technologies you can find in my GitHub repository:
 
 - 🔤 **Languages**: JavaScript (ES6+) and TypeScript (v4).
 - 🔜 **Front-End**: React and Next.js.
-- 🔙 **Back-End**: PHP, WordPress, Node.js, Express and NestJS.
+- 🔙 **Back-End**: PHP, WordPress, Node.js, Express.
 - 🎲 **Database**: MySQL, and MongoDB.
 - 🧪 **Tests**: Jest.
 - 🏷️ **Versioning**: Git, GitHub and Git Flow.
-- 👷🏻 **Code architecture**: POO, SOLID, Rest API, GraphQL and MVC.
+- 👷🏻 **Code architecture**: OOP, SOLID, Rest API, GraphQL and MVC.
 - 📈 **Software Engineering**: Scrum and Kanban.
 
 <!-- Projects -->
