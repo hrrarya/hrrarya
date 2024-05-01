@@ -3,7 +3,7 @@
 
 ## Hello, How Are You? 👋🏻
 
-🧔🏻 My name is **Hridoy Mozumder**, I'm 25 years old, I'm a Bangladeshi programmer, CSE Student and specialized in Full Stack Web Development.
+🧔🏻 My name is **Hridoy Mozumder**, I'm 26 years old, I'm a Bangladeshi programmer, CSE Student and specialized in Full Stack Web Development.
 
 <!-- Social Networks -->
 <p align="left">
