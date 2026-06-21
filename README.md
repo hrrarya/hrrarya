@@ -38,6 +38,8 @@
 
 <img alt="Hridoy Mozumder GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hrrarya&theme=midnight-purple&show_icons=true&hide_border=true" title="Hridoy Mozumder GitHub Stats"/>
 
+<img alt="Hridoy Mozumder Codewars Badge" src="https://www.codewars.com/users/hrrarya/badges/large" title="Hridoy Mozumder Codewars badge"/>
+
 <!-- Skills -->
 
 ## Skills 👨🏻‍💻
